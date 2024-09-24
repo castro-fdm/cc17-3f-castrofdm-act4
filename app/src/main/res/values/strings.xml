@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TipCalculatorTest</string>
+    <string name="app_name">Tip Calculator</string>
     <string name="title">Tip Time</string>
     <string name="textView1">How was the service?</string>
     <string name="textView3">Round up tip?</string>
